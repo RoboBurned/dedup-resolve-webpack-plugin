@@ -1,0 +1,12 @@
+{
+	"root": true,
+	"plugins": ["node", "eslint-plugin-node"],
+	"extends": ["eslint:recommended", "plugin:node/recommended"],
+	"env": {
+		"node": true,
+		"es6": true
+	},
+	"rules": {
+		"no-console": "off"
+	}
+}
