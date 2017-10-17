@@ -1,5 +1,5 @@
 {
-  "name": "dedup-resolve-webpack-plugin",
+  "name": "@roboburned/dedup-resolve-webpack-plugin",
   "version": "0.1.0",
   "description": "Webpack plugin that resolves copies of the same module in different locations to a single path.",
   "main": "index.js",
